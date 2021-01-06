@@ -1,0 +1,143 @@
+Shadowing Combinations
+..Solar Distribution=FullInteriorAndExterior
+..In the following, only the first 10 reference surfaces will be shown.
+..But all surfaces are used in the calculations.
+==================================
+Surface=DINING_WALL_EAST is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=7
+...Surface=DINING_WALL_NORTH
+...Surface=DINING_WALL_SOUTH
+...Surface=DINING_WALL_SOUTH_WINDOW
+...Surface=DINING_WALL_WEST
+...Surface=DINING_WALL_WEST_WINDOW
+...Surface=DINING_FLOOR
+...Surface=DINING_CEILING
+Number of receiving sub surfaces=1
+....Surface=DINING_WALL_EAST_WINDOW
+==================================
+Surface=DINING_WALL_EAST_WINDOW is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=DINING_WALL_NORTH is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=DINING_WALL_SOUTH is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=7
+...Surface=DINING_WALL_EAST
+...Surface=DINING_WALL_EAST_WINDOW
+...Surface=DINING_WALL_NORTH
+...Surface=DINING_WALL_WEST
+...Surface=DINING_WALL_WEST_WINDOW
+...Surface=DINING_FLOOR
+...Surface=DINING_CEILING
+Number of receiving sub surfaces=1
+....Surface=DINING_WALL_SOUTH_WINDOW
+==================================
+Surface=DINING_WALL_SOUTH_WINDOW is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=DINING_WALL_WEST is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=7
+...Surface=DINING_WALL_EAST
+...Surface=DINING_WALL_EAST_WINDOW
+...Surface=DINING_WALL_NORTH
+...Surface=DINING_WALL_SOUTH
+...Surface=DINING_WALL_SOUTH_WINDOW
+...Surface=DINING_FLOOR
+...Surface=DINING_CEILING
+Number of receiving sub surfaces=1
+....Surface=DINING_WALL_WEST_WINDOW
+==================================
+Surface=DINING_WALL_WEST_WINDOW is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=DINING_FLOOR is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=DINING_CEILING is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=DINING INTERNAL MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=DINING_WALL_NORTH-PPAUTOCREATEOTHER is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=KITCHEN_WALL_EAST is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=KITCHEN_WALL_NORTH is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=KITCHEN_WALL_WEST is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=KITCHEN_FLOOR is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=KITCHEN_CEILING is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=KITCHEN INTERNAL MASS is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=ATTIC-FLOOR-DINING is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=ATTIC-FLOOR-KITCHEN is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=EAST-ROOF is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=NORTH-ROOF is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTH-ROOF is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=WEST-ROOF is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0

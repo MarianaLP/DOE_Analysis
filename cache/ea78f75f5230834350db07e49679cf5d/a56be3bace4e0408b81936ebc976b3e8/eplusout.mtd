@@ -1,0 +1,2178 @@
+
+ Meters for 7,BAKERY_LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BAKERY [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BAKERY [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 80,DELI_LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:DELI [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:DELI [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 105,DRYSTORAGE_LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:DRYSTORAGE [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:DRYSTORAGE [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 130,OFFICE_LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:OFFICE [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:OFFICE [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 155,PRODUCE_LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:PRODUCE [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:PRODUCE [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 180,SALES_LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:SALES [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 205,BAKERY_MISCPLUG_EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BAKERY [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BAKERY [J]
+  OnMeter=MiscPlug:InteriorEquipment:Electricity [J]
+
+ Meters for 242,DELI_MISCPLUG_EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:DELI [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:DELI [J]
+  OnMeter=MiscPlug:InteriorEquipment:Electricity [J]
+
+ Meters for 255,DRYSTORAGE_MISCPLUG_EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:DRYSTORAGE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:DRYSTORAGE [J]
+  OnMeter=MiscPlug:InteriorEquipment:Electricity [J]
+
+ Meters for 268,OFFICE_MISCPLUG_EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:OFFICE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:OFFICE [J]
+  OnMeter=MiscPlug:InteriorEquipment:Electricity [J]
+
+ Meters for 281,PRODUCE_MISCPLUG_EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:PRODUCE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:PRODUCE [J]
+  OnMeter=MiscPlug:InteriorEquipment:Electricity [J]
+
+ Meters for 294,SALES_MISCPLUG_EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:SALES [J]
+  OnMeter=MiscPlug:InteriorEquipment:Electricity [J]
+
+ Meters for 307,DELI_EXHAUST_FAN:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:DELI [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:DELI [J]
+  OnMeter=ExhaustFans:InteriorEquipment:Electricity [J]
+
+ Meters for 320,BAKERY_MISCGAS_EQUIP:Gas Equipment Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:Building [J]
+  OnMeter=Gas:Zone:BAKERY [J]
+  OnMeter=InteriorEquipment:Gas [J]
+  OnMeter=InteriorEquipment:Gas:Zone:BAKERY [J]
+  OnMeter=MiscGas:InteriorEquipment:Gas [J]
+
+ Meters for 393,DELI_MISCGAS_EQUIP:Gas Equipment Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:Building [J]
+  OnMeter=Gas:Zone:DELI [J]
+  OnMeter=InteriorEquipment:Gas [J]
+  OnMeter=InteriorEquipment:Gas:Zone:DELI [J]
+  OnMeter=MiscGas:InteriorEquipment:Gas [J]
+
+ Meters for 418,BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BAKERY [J]
+  OnMeter=Refrigeration:EnergyTransfer [J]
+  OnMeter=Refrigeration:EnergyTransfer:Zone:BAKERY [J]
+
+ Meters for 479,BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BAKERY [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:BAKERY [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 516,BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Lighting Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BAKERY [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:BAKERY [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 517,DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:DELI [J]
+  OnMeter=Refrigeration:EnergyTransfer [J]
+  OnMeter=Refrigeration:EnergyTransfer:Zone:DELI [J]
+
+ Meters for 542,DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:DELI [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:DELI [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 555,DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:DELI [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:DELI [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 556,DELI_CASE:2_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:DELI [J]
+  OnMeter=Refrigeration:EnergyTransfer [J]
+  OnMeter=Refrigeration:EnergyTransfer:Zone:DELI [J]
+
+ Meters for 557,DELI_CASE:2_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:DELI [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:DELI [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 558,DELI_CASE:2_WALKINFREEZER:Refrigeration Case Lighting Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:DELI [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:DELI [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 559,DELI_CASE:2_WALKINFREEZER:Refrigeration Case Defrost Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:DELI [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:DELI [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 560,PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:PRODUCE [J]
+  OnMeter=Refrigeration:EnergyTransfer [J]
+  OnMeter=Refrigeration:EnergyTransfer:Zone:PRODUCE [J]
+
+ Meters for 585,PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:PRODUCE [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:PRODUCE [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 598,PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:PRODUCE [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:PRODUCE [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 599,SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Evaporator Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SALES [J]
+  OnMeter=Refrigeration:EnergyTransfer [J]
+  OnMeter=Refrigeration:EnergyTransfer:Zone:SALES [J]
+
+ Meters for 624,SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Evaporator Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 637,SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Lighting Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 638,SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Anti Sweat Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 639,SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Defrost Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 640,SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SALES [J]
+  OnMeter=Refrigeration:EnergyTransfer [J]
+  OnMeter=Refrigeration:EnergyTransfer:Zone:SALES [J]
+
+ Meters for 641,SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 642,SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 643,SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Evaporator Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SALES [J]
+  OnMeter=Refrigeration:EnergyTransfer [J]
+  OnMeter=Refrigeration:EnergyTransfer:Zone:SALES [J]
+
+ Meters for 644,SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Evaporator Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 645,SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Lighting Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 646,SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Anti Sweat Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 647,SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Defrost Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 648,SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Evaporator Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SALES [J]
+  OnMeter=Refrigeration:EnergyTransfer [J]
+  OnMeter=Refrigeration:EnergyTransfer:Zone:SALES [J]
+
+ Meters for 649,SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Evaporator Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 650,SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Lighting Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 651,SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Anti Sweat Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 652,SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Defrost Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 653,SALES_CASE:5_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SALES [J]
+  OnMeter=Refrigeration:EnergyTransfer [J]
+  OnMeter=Refrigeration:EnergyTransfer:Zone:SALES [J]
+
+ Meters for 654,SALES_CASE:5_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 655,SALES_CASE:5_WALKINFREEZER:Refrigeration Case Lighting Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 656,SALES_CASE:5_WALKINFREEZER:Refrigeration Case Defrost Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 657,SALES_CASE:6_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SALES [J]
+  OnMeter=Refrigeration:EnergyTransfer [J]
+  OnMeter=Refrigeration:EnergyTransfer:Zone:SALES [J]
+
+ Meters for 658,SALES_CASE:6_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 659,SALES_CASE:6_WALKINFREEZER:Refrigeration Case Lighting Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 660,SALES_CASE:7_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SALES [J]
+  OnMeter=Refrigeration:EnergyTransfer [J]
+  OnMeter=Refrigeration:EnergyTransfer:Zone:SALES [J]
+
+ Meters for 661,SALES_CASE:7_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 662,SALES_CASE:7_WALKINFREEZER:Refrigeration Case Lighting Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 663,SALES_CASE:7_WALKINFREEZER:Refrigeration Case Defrost Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SALES [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Refrigeration:Electricity:Zone:SALES [J]
+  OnMeter=General:Refrigeration:Electricity [J]
+
+ Meters for 664,RACKA:Refrigeration Compressor Rack Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Med Temp Refrigeration:Refrigeration:Electricity [J]
+
+ Meters for 689,RACKA:Refrigeration Compressor Rack Condenser Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Med Temp Refrigeration:Refrigeration:Electricity [J]
+
+ Meters for 690,RACKA:Refrigeration Compressor Rack Total Heat Transfer Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=Refrigeration:EnergyTransfer [J]
+  OnMeter=Med Temp Refrigeration:Refrigeration:EnergyTransfer [J]
+
+ Meters for 715,RACKB:Refrigeration Compressor Rack Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Low Temp Refrigeration:Refrigeration:Electricity [J]
+
+ Meters for 728,RACKB:Refrigeration Compressor Rack Condenser Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Low Temp Refrigeration:Refrigeration:Electricity [J]
+
+ Meters for 729,RACKB:Refrigeration Compressor Rack Total Heat Transfer Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=Refrigeration:EnergyTransfer [J]
+  OnMeter=Low Temp Refrigeration:Refrigeration:EnergyTransfer [J]
+
+ Meters for 742,RACKC:Refrigeration Compressor Rack Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Med Temp Refrigeration:Refrigeration:Electricity [J]
+
+ Meters for 743,RACKC:Refrigeration Compressor Rack Condenser Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Med Temp Refrigeration:Refrigeration:Electricity [J]
+
+ Meters for 744,RACKC:Refrigeration Compressor Rack Total Heat Transfer Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=Refrigeration:EnergyTransfer [J]
+  OnMeter=Med Temp Refrigeration:Refrigeration:EnergyTransfer [J]
+
+ Meters for 745,RACKD:Refrigeration Compressor Rack Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Low Temp Refrigeration:Refrigeration:Electricity [J]
+
+ Meters for 746,RACKD:Refrigeration Compressor Rack Condenser Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Refrigeration:Electricity [J]
+  OnMeter=Low Temp Refrigeration:Refrigeration:Electricity [J]
+
+ Meters for 747,RACKD:Refrigeration Compressor Rack Total Heat Transfer Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=Refrigeration:EnergyTransfer [J]
+  OnMeter=Low Temp Refrigeration:Refrigeration:EnergyTransfer [J]
+
+ Meters for 748,SWHSYS1 WATER HEATER:Water Heater Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=Water Heater:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 798,SWHSYS1 WATER HEATER:Water Heater Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:Plant [J]
+  OnMeter=WaterSystems:Gas [J]
+  OnMeter=Water Heater:WaterSystems:Gas [J]
+
+ Meters for 835,SWHSYS1 WATER HEATER:Water Heater Off Cycle Parasitic Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:Plant [J]
+  OnMeter=WaterSystems:Gas [J]
+  OnMeter=Water Heater:WaterSystems:Gas [J]
+
+ Meters for 836,SWHSYS1 WATER HEATER:Water Heater On Cycle Parasitic Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:Plant [J]
+  OnMeter=WaterSystems:Gas [J]
+  OnMeter=Water Heater:WaterSystems:Gas [J]
+
+ Meters for 837,SWHSYS1 WATER HEATER:Water Heater Water Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=Water Heater:WaterSystems:Water [m3]
+
+ Meters for 886,SWHSYS1 WATER HEATER:Water Heater Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=Water Heater:WaterSystems:MainsWater [m3]
+
+ Meters for 935,BAKERY:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BAKERY [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BAKERY [J]
+
+ Meters for 960,BAKERY:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BAKERY [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BAKERY [J]
+
+ Meters for 987,DELI:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:DELI [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:DELI [J]
+
+ Meters for 1000,DELI:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:DELI [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:DELI [J]
+
+ Meters for 1015,DRYSTORAGE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:DRYSTORAGE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:DRYSTORAGE [J]
+
+ Meters for 1040,DRYSTORAGE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:DRYSTORAGE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:DRYSTORAGE [J]
+
+ Meters for 1055,OFFICE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OFFICE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:OFFICE [J]
+
+ Meters for 1080,OFFICE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OFFICE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:OFFICE [J]
+
+ Meters for 1095,PRODUCE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:PRODUCE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:PRODUCE [J]
+
+ Meters for 1108,PRODUCE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:PRODUCE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:PRODUCE [J]
+
+ Meters for 1123,SALES:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SALES [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:SALES [J]
+
+ Meters for 1136,SALES:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SALES [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:SALES [J]
+
+ Meters for 1151,BAKERY WATER EQUIPMENT:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 1164,BAKERY WATER EQUIPMENT:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 1177,BAKERY WATER EQUIPMENT:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=General:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1202,DELI WATER EQUIPMENT:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 1203,DELI WATER EQUIPMENT:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 1204,DELI WATER EQUIPMENT:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=General:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1205,BAKERY WATER EQUIPMENT:Water Use Connections Plant Hot Water Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1206,DELI WATER EQUIPMENT:Water Use Connections Plant Hot Water Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1207,Whole Building:Facility Total Purchased Electric Energy [J]
+  OnMeter=ElectricityPurchased:Facility [J]
+  OnMeter=ElectricityPurchased:Plant [J]
+  OnMeter=Cogeneration:ElectricityPurchased [J]
+
+ Meters for 1244,Whole Building:Facility Total Surplus Electric Energy [J]
+  OnMeter=ElectricitySurplusSold:Facility [J]
+  OnMeter=ElectricitySurplusSold:Plant [J]
+  OnMeter=Cogeneration:ElectricitySurplusSold [J]
+
+ Meters for 1281,Whole Building:Facility Net Purchased Electric Energy [J]
+  OnMeter=ElectricityNet:Facility [J]
+  OnMeter=ElectricityNet:Plant [J]
+  OnMeter=Cogeneration:ElectricityNet [J]
+
+ Meters for 1318,PSZ-AC:1_FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fan Energy:Fans:Electricity [J]
+
+ Meters for 1355,PSZ-AC:2_FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fan Energy:Fans:Electricity [J]
+
+ Meters for 1356,PSZ-AC:3_FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fan Energy:Fans:Electricity [J]
+
+ Meters for 1357,PSZ-AC:4_FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fan Energy:Fans:Electricity [J]
+
+ Meters for 1358,PSZ-AC:5_FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fan Energy:Fans:Electricity [J]
+
+ Meters for 1359,PSZ-AC:6_FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fan Energy:Fans:Electricity [J]
+
+ Meters for 1360,BAKERY EXHAUST FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Zone Exhaust Fans:Fans:Electricity [J]
+
+ Meters for 1373,DELI EXHAUST FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Zone Exhaust Fans:Fans:Electricity [J]
+
+ Meters for 1374,SALES EXHAUST FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Zone Exhaust Fans:Fans:Electricity [J]
+
+ Meters for 1375,EXTERIOR FACADE LIGHTING:Exterior Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=ExteriorLights:Electricity [J]
+  OnMeter=Exterior Facade Lighting:ExteriorLights:Electricity [J]
+
+ Meters for 1400,PSZ-AC:1_COOLC DXCOIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1425,PSZ-AC:1_COOLC DXCOIL:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 1438,PSZ-AC:2_COOLC DXCOIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1439,PSZ-AC:2_COOLC DXCOIL:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 1440,PSZ-AC:3_COOLC DXCOIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1441,PSZ-AC:3_COOLC DXCOIL:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 1442,PSZ-AC:4_COOLC DXCOIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1443,PSZ-AC:4_COOLC DXCOIL:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 1444,PSZ-AC:5_COOLC DXCOIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1445,PSZ-AC:5_COOLC DXCOIL:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 1446,PSZ-AC:6_COOLC DXCOIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1447,PSZ-AC:6_COOLC DXCOIL:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 1448,PSZ-AC:1_HEATC:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1461,PSZ-AC:1_HEATC:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1486,PSZ-AC:1_HEATC:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1499,PSZ-AC:1_HEATC:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1500,PSZ-AC:2_HEATC:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1501,PSZ-AC:2_HEATC:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1502,PSZ-AC:2_HEATC:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1503,PSZ-AC:2_HEATC:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1504,PSZ-AC:3_HEATC:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1505,PSZ-AC:3_HEATC:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1506,PSZ-AC:3_HEATC:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1507,PSZ-AC:3_HEATC:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1508,PSZ-AC:4_HEATC:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1509,PSZ-AC:4_HEATC:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1510,PSZ-AC:4_HEATC:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1511,PSZ-AC:4_HEATC:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1512,PSZ-AC:5_HEATC:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1513,PSZ-AC:5_HEATC:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1514,PSZ-AC:5_HEATC:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1515,PSZ-AC:5_HEATC:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1516,PSZ-AC:6_HEATC:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1517,PSZ-AC:6_HEATC:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1518,PSZ-AC:6_HEATC:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1519,PSZ-AC:6_HEATC:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1520,SWHSYS1 PUMP:Pump Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+  OnMeter=General:Pumps:Electricity [J]
+
+ Meters for 1545,PSZ-AC:1_COOLC DXCOIL:Cooling Coil Crankcase Heater Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 1546,Site:Environmental Impact Electricity Source Energy [J]
+  OnMeter=Source:Facility [J]
+  OnMeter=ElectricEmissions:Source [J]
+
+ Meters for 1571,Site:Environmental Impact Electricity CO2 Emissions Mass [kg]
+  OnMeter=CO2:Facility [kg]
+  OnMeter=ElectricEmissions:CO2 [kg]
+
+ Meters for 1596,Site:Environmental Impact Electricity CO Emissions Mass [kg]
+  OnMeter=CO:Facility [kg]
+  OnMeter=ElectricEmissions:CO [kg]
+
+ Meters for 1621,Site:Environmental Impact Electricity CH4 Emissions Mass [kg]
+  OnMeter=CH4:Facility [kg]
+  OnMeter=ElectricEmissions:CH4 [kg]
+
+ Meters for 1646,Site:Environmental Impact Electricity NOx Emissions Mass [kg]
+  OnMeter=NOx:Facility [kg]
+  OnMeter=ElectricEmissions:NOx [kg]
+
+ Meters for 1671,Site:Environmental Impact Electricity N2O Emissions Mass [kg]
+  OnMeter=N2O:Facility [kg]
+  OnMeter=ElectricEmissions:N2O [kg]
+
+ Meters for 1696,Site:Environmental Impact Electricity SO2 Emissions Mass [kg]
+  OnMeter=SO2:Facility [kg]
+  OnMeter=ElectricEmissions:SO2 [kg]
+
+ Meters for 1721,Site:Environmental Impact Electricity PM Emissions Mass [kg]
+  OnMeter=PM:Facility [kg]
+  OnMeter=ElectricEmissions:PM [kg]
+
+ Meters for 1746,Site:Environmental Impact Electricity PM10 Emissions Mass [kg]
+  OnMeter=PM10:Facility [kg]
+  OnMeter=ElectricEmissions:PM10 [kg]
+
+ Meters for 1771,Site:Environmental Impact Electricity PM2.5 Emissions Mass [kg]
+  OnMeter=PM2.5:Facility [kg]
+  OnMeter=ElectricEmissions:PM2.5 [kg]
+
+ Meters for 1796,Site:Environmental Impact Electricity NH3 Emissions Mass [kg]
+  OnMeter=NH3:Facility [kg]
+  OnMeter=ElectricEmissions:NH3 [kg]
+
+ Meters for 1821,Site:Environmental Impact Electricity NMVOC Emissions Mass [kg]
+  OnMeter=NMVOC:Facility [kg]
+  OnMeter=ElectricEmissions:NMVOC [kg]
+
+ Meters for 1846,Site:Environmental Impact Electricity Hg Emissions Mass [kg]
+  OnMeter=Hg:Facility [kg]
+  OnMeter=ElectricEmissions:Hg [kg]
+
+ Meters for 1871,Site:Environmental Impact Electricity Pb Emissions Mass [kg]
+  OnMeter=Pb:Facility [kg]
+  OnMeter=ElectricEmissions:Pb [kg]
+
+ Meters for 1896,Site:Environmental Impact Electricity Water Consumption Volume [L]
+  OnMeter=WaterEnvironmentalFactors:Facility [L]
+  OnMeter=ElectricEmissions:WaterEnvironmentalFactors [L]
+
+ Meters for 1921,Site:Environmental Impact Electricity Nuclear High Level Waste Mass [kg]
+  OnMeter=Nuclear High:Facility [kg]
+  OnMeter=ElectricEmissions:Nuclear High [kg]
+
+ Meters for 1946,Site:Environmental Impact Electricity Nuclear Low Level Waste Volume [m3]
+  OnMeter=Nuclear Low:Facility [m3]
+  OnMeter=ElectricEmissions:Nuclear Low [m3]
+
+ Meters for 1971,Site:Environmental Impact Purchased Electricity Source Energy [J]
+  OnMeter=Source:Facility [J]
+  OnMeter=PurchasedElectricEmissions:Source [J]
+
+ Meters for 1984,Site:Environmental Impact Surplus Sold Electricity Source [J]
+  OnMeter=Source:Facility [J]
+  OnMeter=SoldElectricEmissions:Source [J]
+
+ Meters for 1997,Site:Environmental Impact Natural Gas Source Energy [J]
+  OnMeter=Source:Facility [J]
+  OnMeter=NaturalGasEmissions:Source [J]
+
+ Meters for 2010,Site:Environmental Impact Natural Gas CO2 Emissions Mass [kg]
+  OnMeter=CO2:Facility [kg]
+  OnMeter=NaturalGasEmissions:CO2 [kg]
+
+ Meters for 2023,Site:Environmental Impact Natural Gas CO Emissions Mass [kg]
+  OnMeter=CO:Facility [kg]
+  OnMeter=NaturalGasEmissions:CO [kg]
+
+ Meters for 2036,Site:Environmental Impact Natural Gas CH4 Emissions Mass [kg]
+  OnMeter=CH4:Facility [kg]
+  OnMeter=NaturalGasEmissions:CH4 [kg]
+
+ Meters for 2049,Site:Environmental Impact Natural Gas NOx Emissions Mass [kg]
+  OnMeter=NOx:Facility [kg]
+  OnMeter=NaturalGasEmissions:NOx [kg]
+
+ Meters for 2062,Site:Environmental Impact Natural Gas N2O Emissions Mass [kg]
+  OnMeter=N2O:Facility [kg]
+  OnMeter=NaturalGasEmissions:N2O [kg]
+
+ Meters for 2075,Site:Environmental Impact Natural Gas SO2 Emissions Mass [kg]
+  OnMeter=SO2:Facility [kg]
+  OnMeter=NaturalGasEmissions:SO2 [kg]
+
+ Meters for 2088,Site:Environmental Impact Natural Gas PM Emissions Mass [kg]
+  OnMeter=PM:Facility [kg]
+  OnMeter=NaturalGasEmissions:PM [kg]
+
+ Meters for 2101,Site:Environmental Impact Natural Gas PM10 Emissions Mass [kg]
+  OnMeter=PM10:Facility [kg]
+  OnMeter=NaturalGasEmissions:PM10 [kg]
+
+ Meters for 2114,Site:Environmental Impact Natural Gas PM2.5 Emissions Mass [kg]
+  OnMeter=PM2.5:Facility [kg]
+  OnMeter=NaturalGasEmissions:PM2.5 [kg]
+
+ Meters for 2127,Site:Environmental Impact Natural Gas NH3 Emissions Mass [kg]
+  OnMeter=NH3:Facility [kg]
+  OnMeter=NaturalGasEmissions:NH3 [kg]
+
+ Meters for 2140,Site:Environmental Impact Natural Gas NMVOC Emissions Mass [kg]
+  OnMeter=NMVOC:Facility [kg]
+  OnMeter=NaturalGasEmissions:NMVOC [kg]
+
+ Meters for 2153,Site:Environmental Impact Natural Gas Hg Emissions Mass [kg]
+  OnMeter=Hg:Facility [kg]
+  OnMeter=NaturalGasEmissions:Hg [kg]
+
+ Meters for 2166,Site:Environmental Impact Natural Gas Pb Emissions Mass [kg]
+  OnMeter=Pb:Facility [kg]
+  OnMeter=NaturalGasEmissions:Pb [kg]
+
+ Meters for 2179,Site:Environmental Impact Natural Gas Water Consumption Volume [L]
+  OnMeter=WaterEnvironmentalFactors:Facility [L]
+  OnMeter=NaturalGasEmissions:WaterEnvironmentalFactors [L]
+
+ Meters for 2192,Site:Environmental Impact Natural Gas Nuclear High Level Waste Mass [kg]
+  OnMeter=Nuclear High:Facility [kg]
+  OnMeter=NaturalGasEmissions:Nuclear High [kg]
+
+ Meters for 2205,Site:Environmental Impact Natural Gas Nuclear Low Level Waste Volume [m3]
+  OnMeter=Nuclear Low:Facility [m3]
+  OnMeter=NaturalGasEmissions:Nuclear Low [m3]
+
+ Meters for 2218,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 2243,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 2244,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=Electricity:Facility [J], ResourceType=Electricity, contents are:
+  BAKERY_LIGHTS:Lights Electric Energy
+  DELI_LIGHTS:Lights Electric Energy
+  DRYSTORAGE_LIGHTS:Lights Electric Energy
+  OFFICE_LIGHTS:Lights Electric Energy
+  PRODUCE_LIGHTS:Lights Electric Energy
+  SALES_LIGHTS:Lights Electric Energy
+  BAKERY_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  DELI_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  DRYSTORAGE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  OFFICE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  PRODUCE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  SALES_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  DELI_EXHAUST_FAN:Electric Equipment Electric Energy
+  BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+  PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:6_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:6_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+  RACKA:Refrigeration Compressor Rack Electric Energy
+  RACKA:Refrigeration Compressor Rack Condenser Fan Electric Energy
+  RACKB:Refrigeration Compressor Rack Electric Energy
+  RACKB:Refrigeration Compressor Rack Condenser Fan Electric Energy
+  RACKC:Refrigeration Compressor Rack Electric Energy
+  RACKC:Refrigeration Compressor Rack Condenser Fan Electric Energy
+  RACKD:Refrigeration Compressor Rack Electric Energy
+  RACKD:Refrigeration Compressor Rack Condenser Fan Electric Energy
+  PSZ-AC:1_FAN:Fan Electric Energy
+  PSZ-AC:2_FAN:Fan Electric Energy
+  PSZ-AC:3_FAN:Fan Electric Energy
+  PSZ-AC:4_FAN:Fan Electric Energy
+  PSZ-AC:5_FAN:Fan Electric Energy
+  PSZ-AC:6_FAN:Fan Electric Energy
+  BAKERY EXHAUST FAN:Fan Electric Energy
+  DELI EXHAUST FAN:Fan Electric Energy
+  SALES EXHAUST FAN:Fan Electric Energy
+  EXTERIOR FACADE LIGHTING:Exterior Lights Electric Energy
+  PSZ-AC:1_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:2_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:3_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:4_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:5_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:6_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:1_HEATC:Heating Coil Electric Energy
+  PSZ-AC:2_HEATC:Heating Coil Electric Energy
+  PSZ-AC:3_HEATC:Heating Coil Electric Energy
+  PSZ-AC:4_HEATC:Heating Coil Electric Energy
+  PSZ-AC:5_HEATC:Heating Coil Electric Energy
+  PSZ-AC:6_HEATC:Heating Coil Electric Energy
+  SWHSYS1 PUMP:Pump Electric Energy
+  PSZ-AC:1_COOLC DXCOIL:Cooling Coil Crankcase Heater Electric Energy
+
+ For Meter=Electricity:Building [J], ResourceType=Electricity, Group=Building, contents are:
+  BAKERY_LIGHTS:Lights Electric Energy
+  DELI_LIGHTS:Lights Electric Energy
+  DRYSTORAGE_LIGHTS:Lights Electric Energy
+  OFFICE_LIGHTS:Lights Electric Energy
+  PRODUCE_LIGHTS:Lights Electric Energy
+  SALES_LIGHTS:Lights Electric Energy
+  BAKERY_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  DELI_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  DRYSTORAGE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  OFFICE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  PRODUCE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  SALES_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  DELI_EXHAUST_FAN:Electric Equipment Electric Energy
+  BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+  PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:6_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:6_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+
+ For Meter=Electricity:Zone:BAKERY [J], ResourceType=Electricity, Group=Zone, contents are:
+  BAKERY_LIGHTS:Lights Electric Energy
+  BAKERY_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+
+ For Meter=InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  BAKERY_LIGHTS:Lights Electric Energy
+  DELI_LIGHTS:Lights Electric Energy
+  DRYSTORAGE_LIGHTS:Lights Electric Energy
+  OFFICE_LIGHTS:Lights Electric Energy
+  PRODUCE_LIGHTS:Lights Electric Energy
+  SALES_LIGHTS:Lights Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:BAKERY [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BAKERY_LIGHTS:Lights Electric Energy
+
+ For Meter=General:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  BAKERY_LIGHTS:Lights Electric Energy
+  DELI_LIGHTS:Lights Electric Energy
+  DRYSTORAGE_LIGHTS:Lights Electric Energy
+  OFFICE_LIGHTS:Lights Electric Energy
+  PRODUCE_LIGHTS:Lights Electric Energy
+  SALES_LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:DELI [J], ResourceType=Electricity, Group=Zone, contents are:
+  DELI_LIGHTS:Lights Electric Energy
+  DELI_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  DELI_EXHAUST_FAN:Electric Equipment Electric Energy
+  DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:DELI [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  DELI_LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:DRYSTORAGE [J], ResourceType=Electricity, Group=Zone, contents are:
+  DRYSTORAGE_LIGHTS:Lights Electric Energy
+  DRYSTORAGE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:DRYSTORAGE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  DRYSTORAGE_LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:OFFICE [J], ResourceType=Electricity, Group=Zone, contents are:
+  OFFICE_LIGHTS:Lights Electric Energy
+  OFFICE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:OFFICE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  OFFICE_LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:PRODUCE [J], ResourceType=Electricity, Group=Zone, contents are:
+  PRODUCE_LIGHTS:Lights Electric Energy
+  PRODUCE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:PRODUCE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  PRODUCE_LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:SALES [J], ResourceType=Electricity, Group=Zone, contents are:
+  SALES_LIGHTS:Lights Electric Energy
+  SALES_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:6_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:6_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:SALES [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  SALES_LIGHTS:Lights Electric Energy
+
+ For Meter=InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  BAKERY_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  DELI_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  DRYSTORAGE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  OFFICE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  PRODUCE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  SALES_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  DELI_EXHAUST_FAN:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:BAKERY [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BAKERY_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+
+ For Meter=MiscPlug:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  BAKERY_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  DELI_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  DRYSTORAGE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  OFFICE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  PRODUCE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  SALES_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:DELI [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  DELI_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+  DELI_EXHAUST_FAN:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:DRYSTORAGE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  DRYSTORAGE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:OFFICE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  OFFICE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:PRODUCE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  PRODUCE_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:SALES [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  SALES_MISCPLUG_EQUIP:Electric Equipment Electric Energy
+
+ For Meter=ExhaustFans:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  DELI_EXHAUST_FAN:Electric Equipment Electric Energy
+
+ For Meter=Gas:Facility [J], ResourceType=Gas, contents are:
+  BAKERY_MISCGAS_EQUIP:Gas Equipment Gas Energy
+  DELI_MISCGAS_EQUIP:Gas Equipment Gas Energy
+  SWHSYS1 WATER HEATER:Water Heater Gas Energy
+  SWHSYS1 WATER HEATER:Water Heater Off Cycle Parasitic Gas Energy
+  SWHSYS1 WATER HEATER:Water Heater On Cycle Parasitic Gas Energy
+  PSZ-AC:1_HEATC:Heating Coil Gas Energy
+  PSZ-AC:1_HEATC:Heating Coil Ancillary Gas Energy
+  PSZ-AC:2_HEATC:Heating Coil Gas Energy
+  PSZ-AC:2_HEATC:Heating Coil Ancillary Gas Energy
+  PSZ-AC:3_HEATC:Heating Coil Gas Energy
+  PSZ-AC:3_HEATC:Heating Coil Ancillary Gas Energy
+  PSZ-AC:4_HEATC:Heating Coil Gas Energy
+  PSZ-AC:4_HEATC:Heating Coil Ancillary Gas Energy
+  PSZ-AC:5_HEATC:Heating Coil Gas Energy
+  PSZ-AC:5_HEATC:Heating Coil Ancillary Gas Energy
+  PSZ-AC:6_HEATC:Heating Coil Gas Energy
+  PSZ-AC:6_HEATC:Heating Coil Ancillary Gas Energy
+
+ For Meter=Gas:Building [J], ResourceType=Gas, Group=Building, contents are:
+  BAKERY_MISCGAS_EQUIP:Gas Equipment Gas Energy
+  DELI_MISCGAS_EQUIP:Gas Equipment Gas Energy
+
+ For Meter=Gas:Zone:BAKERY [J], ResourceType=Gas, Group=Zone, contents are:
+  BAKERY_MISCGAS_EQUIP:Gas Equipment Gas Energy
+
+ For Meter=InteriorEquipment:Gas [J], ResourceType=Gas, EndUse=InteriorEquipment, contents are:
+  BAKERY_MISCGAS_EQUIP:Gas Equipment Gas Energy
+  DELI_MISCGAS_EQUIP:Gas Equipment Gas Energy
+
+ For Meter=InteriorEquipment:Gas:Zone:BAKERY [J], ResourceType=Gas, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BAKERY_MISCGAS_EQUIP:Gas Equipment Gas Energy
+
+ For Meter=MiscGas:InteriorEquipment:Gas [J], ResourceType=Gas, EndUse=InteriorEquipment, contents are:
+  BAKERY_MISCGAS_EQUIP:Gas Equipment Gas Energy
+  DELI_MISCGAS_EQUIP:Gas Equipment Gas Energy
+
+ For Meter=Gas:Zone:DELI [J], ResourceType=Gas, Group=Zone, contents are:
+  DELI_MISCGAS_EQUIP:Gas Equipment Gas Energy
+
+ For Meter=InteriorEquipment:Gas:Zone:DELI [J], ResourceType=Gas, EndUse=InteriorEquipment, Group=Zone, contents are:
+  DELI_MISCGAS_EQUIP:Gas Equipment Gas Energy
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:6_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  RACKA:Refrigeration Compressor Rack Total Heat Transfer Energy
+  RACKB:Refrigeration Compressor Rack Total Heat Transfer Energy
+  RACKC:Refrigeration Compressor Rack Total Heat Transfer Energy
+  RACKD:Refrigeration Compressor Rack Total Heat Transfer Energy
+  BAKERY:Zone Air System Sensible Heating Energy
+  BAKERY:Zone Air System Sensible Cooling Energy
+  DELI:Zone Air System Sensible Heating Energy
+  DELI:Zone Air System Sensible Cooling Energy
+  DRYSTORAGE:Zone Air System Sensible Heating Energy
+  DRYSTORAGE:Zone Air System Sensible Cooling Energy
+  OFFICE:Zone Air System Sensible Heating Energy
+  OFFICE:Zone Air System Sensible Cooling Energy
+  PRODUCE:Zone Air System Sensible Heating Energy
+  PRODUCE:Zone Air System Sensible Cooling Energy
+  SALES:Zone Air System Sensible Heating Energy
+  SALES:Zone Air System Sensible Cooling Energy
+  BAKERY WATER EQUIPMENT:Water Use Equipment Heating Energy
+  DELI WATER EQUIPMENT:Water Use Equipment Heating Energy
+  PSZ-AC:1_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+  PSZ-AC:2_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+  PSZ-AC:3_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+  PSZ-AC:4_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+  PSZ-AC:5_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+  PSZ-AC:6_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+  PSZ-AC:1_HEATC:Heating Coil Heating Energy
+  PSZ-AC:2_HEATC:Heating Coil Heating Energy
+  PSZ-AC:3_HEATC:Heating Coil Heating Energy
+  PSZ-AC:4_HEATC:Heating Coil Heating Energy
+  PSZ-AC:5_HEATC:Heating Coil Heating Energy
+  PSZ-AC:6_HEATC:Heating Coil Heating Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:6_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  BAKERY:Zone Air System Sensible Heating Energy
+  BAKERY:Zone Air System Sensible Cooling Energy
+  DELI:Zone Air System Sensible Heating Energy
+  DELI:Zone Air System Sensible Cooling Energy
+  DRYSTORAGE:Zone Air System Sensible Heating Energy
+  DRYSTORAGE:Zone Air System Sensible Cooling Energy
+  OFFICE:Zone Air System Sensible Heating Energy
+  OFFICE:Zone Air System Sensible Cooling Energy
+  PRODUCE:Zone Air System Sensible Heating Energy
+  PRODUCE:Zone Air System Sensible Cooling Energy
+  SALES:Zone Air System Sensible Heating Energy
+  SALES:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BAKERY [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  BAKERY:Zone Air System Sensible Heating Energy
+  BAKERY:Zone Air System Sensible Cooling Energy
+
+ For Meter=Refrigeration:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Refrigeration, contents are:
+  BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:6_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  RACKA:Refrigeration Compressor Rack Total Heat Transfer Energy
+  RACKB:Refrigeration Compressor Rack Total Heat Transfer Energy
+  RACKC:Refrigeration Compressor Rack Total Heat Transfer Energy
+  RACKD:Refrigeration Compressor Rack Total Heat Transfer Energy
+
+ For Meter=Refrigeration:EnergyTransfer:Zone:BAKERY [J], ResourceType=EnergyTransfer, EndUse=Refrigeration, Group=Zone, contents are:
+  BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+
+ For Meter=Refrigeration:Electricity [J], ResourceType=Electricity, EndUse=Refrigeration, contents are:
+  BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+  PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:6_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:6_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+  RACKA:Refrigeration Compressor Rack Electric Energy
+  RACKA:Refrigeration Compressor Rack Condenser Fan Electric Energy
+  RACKB:Refrigeration Compressor Rack Electric Energy
+  RACKB:Refrigeration Compressor Rack Condenser Fan Electric Energy
+  RACKC:Refrigeration Compressor Rack Electric Energy
+  RACKC:Refrigeration Compressor Rack Condenser Fan Electric Energy
+  RACKD:Refrigeration Compressor Rack Electric Energy
+  RACKD:Refrigeration Compressor Rack Condenser Fan Electric Energy
+
+ For Meter=Refrigeration:Electricity:Zone:BAKERY [J], ResourceType=Electricity, EndUse=Refrigeration, Group=Zone, contents are:
+  BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+
+ For Meter=General:Refrigeration:Electricity [J], ResourceType=Electricity, EndUse=Refrigeration, contents are:
+  BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  BAKERY_CASE:1_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+  PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:6_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:6_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+
+ For Meter=EnergyTransfer:Zone:DELI [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  DELI:Zone Air System Sensible Heating Energy
+  DELI:Zone Air System Sensible Cooling Energy
+
+ For Meter=Refrigeration:EnergyTransfer:Zone:DELI [J], ResourceType=EnergyTransfer, EndUse=Refrigeration, Group=Zone, contents are:
+  DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+
+ For Meter=Refrigeration:Electricity:Zone:DELI [J], ResourceType=Electricity, EndUse=Refrigeration, Group=Zone, contents are:
+  DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  DELI_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  DELI_CASE:2_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+
+ For Meter=EnergyTransfer:Zone:PRODUCE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy
+  PRODUCE:Zone Air System Sensible Heating Energy
+  PRODUCE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Refrigeration:EnergyTransfer:Zone:PRODUCE [J], ResourceType=EnergyTransfer, EndUse=Refrigeration, Group=Zone, contents are:
+  PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy
+
+ For Meter=Refrigeration:Electricity:Zone:PRODUCE [J], ResourceType=Electricity, EndUse=Refrigeration, Group=Zone, contents are:
+  PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  PRODUCE_CASE:1_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+
+ For Meter=EnergyTransfer:Zone:SALES [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:6_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  SALES:Zone Air System Sensible Heating Energy
+  SALES:Zone Air System Sensible Cooling Energy
+
+ For Meter=Refrigeration:EnergyTransfer:Zone:SALES [J], ResourceType=EnergyTransfer, EndUse=Refrigeration, Group=Zone, contents are:
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:6_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Evaporator Total Cooling Energy
+
+ For Meter=Refrigeration:Electricity:Zone:SALES [J], ResourceType=Electricity, EndUse=Refrigeration, Group=Zone, contents are:
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:1_MEATDISPLAYCASE:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:2_ MULTIDECKDIARYANDDELICASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:3_GLASSDOORFROZENFOOD:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Anti Sweat Electric Energy
+  SALES_CASE:4_OPENWELLICECREAMDISPLAYCASE:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:5_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+  SALES_CASE:6_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:6_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Evaporator Fan Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Lighting Electric Energy
+  SALES_CASE:7_WALKINFREEZER:Refrigeration Case Defrost Electric Energy
+
+ For Meter=Electricity:Plant [J], ResourceType=Electricity, Group=Plant, contents are:
+  RACKA:Refrigeration Compressor Rack Electric Energy
+  RACKA:Refrigeration Compressor Rack Condenser Fan Electric Energy
+  RACKB:Refrigeration Compressor Rack Electric Energy
+  RACKB:Refrigeration Compressor Rack Condenser Fan Electric Energy
+  RACKC:Refrigeration Compressor Rack Electric Energy
+  RACKC:Refrigeration Compressor Rack Condenser Fan Electric Energy
+  RACKD:Refrigeration Compressor Rack Electric Energy
+  RACKD:Refrigeration Compressor Rack Condenser Fan Electric Energy
+  SWHSYS1 PUMP:Pump Electric Energy
+  PSZ-AC:1_COOLC DXCOIL:Cooling Coil Crankcase Heater Electric Energy
+
+ For Meter=Med Temp Refrigeration:Refrigeration:Electricity [J], ResourceType=Electricity, EndUse=Refrigeration, contents are:
+  RACKA:Refrigeration Compressor Rack Electric Energy
+  RACKA:Refrigeration Compressor Rack Condenser Fan Electric Energy
+  RACKC:Refrigeration Compressor Rack Electric Energy
+  RACKC:Refrigeration Compressor Rack Condenser Fan Electric Energy
+
+ For Meter=EnergyTransfer:Plant [J], ResourceType=EnergyTransfer, Group=Plant, contents are:
+  RACKA:Refrigeration Compressor Rack Total Heat Transfer Energy
+  RACKB:Refrigeration Compressor Rack Total Heat Transfer Energy
+  RACKC:Refrigeration Compressor Rack Total Heat Transfer Energy
+  RACKD:Refrigeration Compressor Rack Total Heat Transfer Energy
+  BAKERY WATER EQUIPMENT:Water Use Equipment Heating Energy
+  DELI WATER EQUIPMENT:Water Use Equipment Heating Energy
+
+ For Meter=Med Temp Refrigeration:Refrigeration:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Refrigeration, contents are:
+  RACKA:Refrigeration Compressor Rack Total Heat Transfer Energy
+  RACKC:Refrigeration Compressor Rack Total Heat Transfer Energy
+
+ For Meter=Low Temp Refrigeration:Refrigeration:Electricity [J], ResourceType=Electricity, EndUse=Refrigeration, contents are:
+  RACKB:Refrigeration Compressor Rack Electric Energy
+  RACKB:Refrigeration Compressor Rack Condenser Fan Electric Energy
+  RACKD:Refrigeration Compressor Rack Electric Energy
+  RACKD:Refrigeration Compressor Rack Condenser Fan Electric Energy
+
+ For Meter=Low Temp Refrigeration:Refrigeration:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Refrigeration, contents are:
+  RACKB:Refrigeration Compressor Rack Total Heat Transfer Energy
+  RACKD:Refrigeration Compressor Rack Total Heat Transfer Energy
+
+ For Meter=PlantLoopHeatingDemand:Facility [J], ResourceType=PlantLoopHeatingDemand, contents are:
+  SWHSYS1 WATER HEATER:Water Heater Source Side Heat Transfer Energy
+  BAKERY WATER EQUIPMENT:Water Use Connections Plant Hot Water Energy
+  DELI WATER EQUIPMENT:Water Use Connections Plant Hot Water Energy
+
+ For Meter=PlantLoopHeatingDemand:Plant [J], ResourceType=PlantLoopHeatingDemand, Group=Plant, contents are:
+  SWHSYS1 WATER HEATER:Water Heater Source Side Heat Transfer Energy
+  BAKERY WATER EQUIPMENT:Water Use Connections Plant Hot Water Energy
+  DELI WATER EQUIPMENT:Water Use Connections Plant Hot Water Energy
+
+ For Meter=WaterSystems:PlantLoopHeatingDemand [J], ResourceType=PlantLoopHeatingDemand, EndUse=WaterSystems, contents are:
+  SWHSYS1 WATER HEATER:Water Heater Source Side Heat Transfer Energy
+  BAKERY WATER EQUIPMENT:Water Use Connections Plant Hot Water Energy
+  DELI WATER EQUIPMENT:Water Use Connections Plant Hot Water Energy
+
+ For Meter=Water Heater:WaterSystems:PlantLoopHeatingDemand [J], ResourceType=PlantLoopHeatingDemand, EndUse=WaterSystems, contents are:
+  SWHSYS1 WATER HEATER:Water Heater Source Side Heat Transfer Energy
+
+ For Meter=Gas:Plant [J], ResourceType=Gas, Group=Plant, contents are:
+  SWHSYS1 WATER HEATER:Water Heater Gas Energy
+  SWHSYS1 WATER HEATER:Water Heater Off Cycle Parasitic Gas Energy
+  SWHSYS1 WATER HEATER:Water Heater On Cycle Parasitic Gas Energy
+
+ For Meter=WaterSystems:Gas [J], ResourceType=Gas, EndUse=WaterSystems, contents are:
+  SWHSYS1 WATER HEATER:Water Heater Gas Energy
+  SWHSYS1 WATER HEATER:Water Heater Off Cycle Parasitic Gas Energy
+  SWHSYS1 WATER HEATER:Water Heater On Cycle Parasitic Gas Energy
+
+ For Meter=Water Heater:WaterSystems:Gas [J], ResourceType=Gas, EndUse=WaterSystems, contents are:
+  SWHSYS1 WATER HEATER:Water Heater Gas Energy
+  SWHSYS1 WATER HEATER:Water Heater Off Cycle Parasitic Gas Energy
+  SWHSYS1 WATER HEATER:Water Heater On Cycle Parasitic Gas Energy
+
+ For Meter=Water:Facility [m3], ResourceType=Water, contents are:
+  SWHSYS1 WATER HEATER:Water Heater Water Volume
+  BAKERY WATER EQUIPMENT:Water Use Equipment Total Volume
+  DELI WATER EQUIPMENT:Water Use Equipment Total Volume
+
+ For Meter=Water:Plant [m3], ResourceType=Water, Group=Plant, contents are:
+  SWHSYS1 WATER HEATER:Water Heater Water Volume
+  BAKERY WATER EQUIPMENT:Water Use Equipment Total Volume
+  DELI WATER EQUIPMENT:Water Use Equipment Total Volume
+
+ For Meter=WaterSystems:Water [m3], ResourceType=Water, EndUse=WaterSystems, contents are:
+  SWHSYS1 WATER HEATER:Water Heater Water Volume
+  BAKERY WATER EQUIPMENT:Water Use Equipment Total Volume
+  DELI WATER EQUIPMENT:Water Use Equipment Total Volume
+
+ For Meter=Water Heater:WaterSystems:Water [m3], ResourceType=Water, EndUse=WaterSystems, contents are:
+  SWHSYS1 WATER HEATER:Water Heater Water Volume
+
+ For Meter=MainsWater:Facility [m3], ResourceType=MainsWater, contents are:
+  SWHSYS1 WATER HEATER:Water Heater Mains Water Volume
+  BAKERY WATER EQUIPMENT:Water Use Equipment Mains Water Volume
+  DELI WATER EQUIPMENT:Water Use Equipment Mains Water Volume
+
+ For Meter=MainsWater:Plant [m3], ResourceType=MainsWater, Group=Plant, contents are:
+  SWHSYS1 WATER HEATER:Water Heater Mains Water Volume
+  BAKERY WATER EQUIPMENT:Water Use Equipment Mains Water Volume
+  DELI WATER EQUIPMENT:Water Use Equipment Mains Water Volume
+
+ For Meter=WaterSystems:MainsWater [m3], ResourceType=MainsWater, EndUse=WaterSystems, contents are:
+  SWHSYS1 WATER HEATER:Water Heater Mains Water Volume
+  BAKERY WATER EQUIPMENT:Water Use Equipment Mains Water Volume
+  DELI WATER EQUIPMENT:Water Use Equipment Mains Water Volume
+
+ For Meter=Water Heater:WaterSystems:MainsWater [m3], ResourceType=MainsWater, EndUse=WaterSystems, contents are:
+  SWHSYS1 WATER HEATER:Water Heater Mains Water Volume
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  BAKERY:Zone Air System Sensible Heating Energy
+  DELI:Zone Air System Sensible Heating Energy
+  DRYSTORAGE:Zone Air System Sensible Heating Energy
+  OFFICE:Zone Air System Sensible Heating Energy
+  PRODUCE:Zone Air System Sensible Heating Energy
+  SALES:Zone Air System Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BAKERY [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BAKERY:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  BAKERY:Zone Air System Sensible Cooling Energy
+  DELI:Zone Air System Sensible Cooling Energy
+  DRYSTORAGE:Zone Air System Sensible Cooling Energy
+  OFFICE:Zone Air System Sensible Cooling Energy
+  PRODUCE:Zone Air System Sensible Cooling Energy
+  SALES:Zone Air System Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BAKERY [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BAKERY:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:DELI [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  DELI:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:DELI [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  DELI:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:DRYSTORAGE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  DRYSTORAGE:Zone Air System Sensible Heating Energy
+  DRYSTORAGE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:DRYSTORAGE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  DRYSTORAGE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:DRYSTORAGE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  DRYSTORAGE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:OFFICE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  OFFICE:Zone Air System Sensible Heating Energy
+  OFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:OFFICE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OFFICE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:OFFICE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:PRODUCE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  PRODUCE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:PRODUCE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  PRODUCE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:SALES [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  SALES:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:SALES [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  SALES:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:WaterSystems:Water [m3], ResourceType=Water, EndUse=WaterSystems, contents are:
+  BAKERY WATER EQUIPMENT:Water Use Equipment Total Volume
+  DELI WATER EQUIPMENT:Water Use Equipment Total Volume
+
+ For Meter=General:WaterSystems:MainsWater [m3], ResourceType=MainsWater, EndUse=WaterSystems, contents are:
+  BAKERY WATER EQUIPMENT:Water Use Equipment Mains Water Volume
+  DELI WATER EQUIPMENT:Water Use Equipment Mains Water Volume
+
+ For Meter=WaterSystems:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=WaterSystems, contents are:
+  BAKERY WATER EQUIPMENT:Water Use Equipment Heating Energy
+  DELI WATER EQUIPMENT:Water Use Equipment Heating Energy
+
+ For Meter=General:WaterSystems:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=WaterSystems, contents are:
+  BAKERY WATER EQUIPMENT:Water Use Equipment Heating Energy
+  DELI WATER EQUIPMENT:Water Use Equipment Heating Energy
+
+ For Meter=ElectricityPurchased:Facility [J], ResourceType=ElectricityPurchased, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=ElectricityPurchased:Plant [J], ResourceType=ElectricityPurchased, Group=Plant, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=ElectricitySurplusSold:Facility [J], ResourceType=ElectricitySurplusSold, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=ElectricitySurplusSold:Plant [J], ResourceType=ElectricitySurplusSold, Group=Plant, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=ElectricityNet:Facility [J], ResourceType=ElectricityNet, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=ElectricityNet:Plant [J], ResourceType=ElectricityNet, Group=Plant, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=Electricity:HVAC [J], ResourceType=Electricity, Group=HVAC, contents are:
+  PSZ-AC:1_FAN:Fan Electric Energy
+  PSZ-AC:2_FAN:Fan Electric Energy
+  PSZ-AC:3_FAN:Fan Electric Energy
+  PSZ-AC:4_FAN:Fan Electric Energy
+  PSZ-AC:5_FAN:Fan Electric Energy
+  PSZ-AC:6_FAN:Fan Electric Energy
+  BAKERY EXHAUST FAN:Fan Electric Energy
+  DELI EXHAUST FAN:Fan Electric Energy
+  SALES EXHAUST FAN:Fan Electric Energy
+  PSZ-AC:1_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:2_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:3_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:4_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:5_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:6_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:1_HEATC:Heating Coil Electric Energy
+  PSZ-AC:2_HEATC:Heating Coil Electric Energy
+  PSZ-AC:3_HEATC:Heating Coil Electric Energy
+  PSZ-AC:4_HEATC:Heating Coil Electric Energy
+  PSZ-AC:5_HEATC:Heating Coil Electric Energy
+  PSZ-AC:6_HEATC:Heating Coil Electric Energy
+
+ For Meter=Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  PSZ-AC:1_FAN:Fan Electric Energy
+  PSZ-AC:2_FAN:Fan Electric Energy
+  PSZ-AC:3_FAN:Fan Electric Energy
+  PSZ-AC:4_FAN:Fan Electric Energy
+  PSZ-AC:5_FAN:Fan Electric Energy
+  PSZ-AC:6_FAN:Fan Electric Energy
+  BAKERY EXHAUST FAN:Fan Electric Energy
+  DELI EXHAUST FAN:Fan Electric Energy
+  SALES EXHAUST FAN:Fan Electric Energy
+
+ For Meter=Fan Energy:Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  PSZ-AC:1_FAN:Fan Electric Energy
+  PSZ-AC:2_FAN:Fan Electric Energy
+  PSZ-AC:3_FAN:Fan Electric Energy
+  PSZ-AC:4_FAN:Fan Electric Energy
+  PSZ-AC:5_FAN:Fan Electric Energy
+  PSZ-AC:6_FAN:Fan Electric Energy
+
+ For Meter=Zone Exhaust Fans:Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  BAKERY EXHAUST FAN:Fan Electric Energy
+  DELI EXHAUST FAN:Fan Electric Energy
+  SALES EXHAUST FAN:Fan Electric Energy
+
+ For Meter=ExteriorLights:Electricity [J], ResourceType=Electricity, EndUse=ExteriorLights, contents are:
+  EXTERIOR FACADE LIGHTING:Exterior Lights Electric Energy
+
+ For Meter=Exterior Facade Lighting:ExteriorLights:Electricity [J], ResourceType=Electricity, EndUse=ExteriorLights, contents are:
+  EXTERIOR FACADE LIGHTING:Exterior Lights Electric Energy
+
+ For Meter=EnergyTransfer:HVAC [J], ResourceType=EnergyTransfer, Group=HVAC, contents are:
+  PSZ-AC:1_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+  PSZ-AC:2_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+  PSZ-AC:3_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+  PSZ-AC:4_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+  PSZ-AC:5_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+  PSZ-AC:6_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+  PSZ-AC:1_HEATC:Heating Coil Heating Energy
+  PSZ-AC:2_HEATC:Heating Coil Heating Energy
+  PSZ-AC:3_HEATC:Heating Coil Heating Energy
+  PSZ-AC:4_HEATC:Heating Coil Heating Energy
+  PSZ-AC:5_HEATC:Heating Coil Heating Energy
+  PSZ-AC:6_HEATC:Heating Coil Heating Energy
+
+ For Meter=CoolingCoils:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=CoolingCoils, contents are:
+  PSZ-AC:1_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+  PSZ-AC:2_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+  PSZ-AC:3_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+  PSZ-AC:4_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+  PSZ-AC:5_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+  PSZ-AC:6_COOLC DXCOIL:Cooling Coil Total Cooling Energy
+
+ For Meter=Cooling:Electricity [J], ResourceType=Electricity, EndUse=Cooling, contents are:
+  PSZ-AC:1_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:2_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:3_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:4_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:5_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:6_COOLC DXCOIL:Cooling Coil Electric Energy
+  PSZ-AC:1_COOLC DXCOIL:Cooling Coil Crankcase Heater Electric Energy
+
+ For Meter=HeatingCoils:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=HeatingCoils, contents are:
+  PSZ-AC:1_HEATC:Heating Coil Heating Energy
+  PSZ-AC:2_HEATC:Heating Coil Heating Energy
+  PSZ-AC:3_HEATC:Heating Coil Heating Energy
+  PSZ-AC:4_HEATC:Heating Coil Heating Energy
+  PSZ-AC:5_HEATC:Heating Coil Heating Energy
+  PSZ-AC:6_HEATC:Heating Coil Heating Energy
+
+ For Meter=Gas:HVAC [J], ResourceType=Gas, Group=HVAC, contents are:
+  PSZ-AC:1_HEATC:Heating Coil Gas Energy
+  PSZ-AC:1_HEATC:Heating Coil Ancillary Gas Energy
+  PSZ-AC:2_HEATC:Heating Coil Gas Energy
+  PSZ-AC:2_HEATC:Heating Coil Ancillary Gas Energy
+  PSZ-AC:3_HEATC:Heating Coil Gas Energy
+  PSZ-AC:3_HEATC:Heating Coil Ancillary Gas Energy
+  PSZ-AC:4_HEATC:Heating Coil Gas Energy
+  PSZ-AC:4_HEATC:Heating Coil Ancillary Gas Energy
+  PSZ-AC:5_HEATC:Heating Coil Gas Energy
+  PSZ-AC:5_HEATC:Heating Coil Ancillary Gas Energy
+  PSZ-AC:6_HEATC:Heating Coil Gas Energy
+  PSZ-AC:6_HEATC:Heating Coil Ancillary Gas Energy
+
+ For Meter=Heating:Gas [J], ResourceType=Gas, EndUse=Heating, contents are:
+  PSZ-AC:1_HEATC:Heating Coil Gas Energy
+  PSZ-AC:1_HEATC:Heating Coil Ancillary Gas Energy
+  PSZ-AC:2_HEATC:Heating Coil Gas Energy
+  PSZ-AC:2_HEATC:Heating Coil Ancillary Gas Energy
+  PSZ-AC:3_HEATC:Heating Coil Gas Energy
+  PSZ-AC:3_HEATC:Heating Coil Ancillary Gas Energy
+  PSZ-AC:4_HEATC:Heating Coil Gas Energy
+  PSZ-AC:4_HEATC:Heating Coil Ancillary Gas Energy
+  PSZ-AC:5_HEATC:Heating Coil Gas Energy
+  PSZ-AC:5_HEATC:Heating Coil Ancillary Gas Energy
+  PSZ-AC:6_HEATC:Heating Coil Gas Energy
+  PSZ-AC:6_HEATC:Heating Coil Ancillary Gas Energy
+
+ For Meter=Heating:Electricity [J], ResourceType=Electricity, EndUse=Heating, contents are:
+  PSZ-AC:1_HEATC:Heating Coil Electric Energy
+  PSZ-AC:2_HEATC:Heating Coil Electric Energy
+  PSZ-AC:3_HEATC:Heating Coil Electric Energy
+  PSZ-AC:4_HEATC:Heating Coil Electric Energy
+  PSZ-AC:5_HEATC:Heating Coil Electric Energy
+  PSZ-AC:6_HEATC:Heating Coil Electric Energy
+
+ For Meter=Pumps:Electricity [J], ResourceType=Electricity, EndUse=Pumps, contents are:
+  SWHSYS1 PUMP:Pump Electric Energy
+
+ For Meter=General:Pumps:Electricity [J], ResourceType=Electricity, EndUse=Pumps, contents are:
+  SWHSYS1 PUMP:Pump Electric Energy
+
+ For Meter=Source:Facility [J], ResourceType=Source, contents are:
+  Site:Environmental Impact Electricity Source Energy
+  Site:Environmental Impact Purchased Electricity Source Energy
+  Site:Environmental Impact Surplus Sold Electricity Source
+  Site:Environmental Impact Natural Gas Source Energy
+
+ For Meter=ElectricEmissions:Source [J], ResourceType=Source, EndUse=ElectricEmissions, contents are:
+  Site:Environmental Impact Electricity Source Energy
+
+ For Meter=CO2:Facility [kg], ResourceType=CO2, contents are:
+  Site:Environmental Impact Electricity CO2 Emissions Mass
+  Site:Environmental Impact Natural Gas CO2 Emissions Mass
+
+ For Meter=ElectricEmissions:CO2 [kg], ResourceType=CO2, EndUse=ElectricEmissions, contents are:
+  Site:Environmental Impact Electricity CO2 Emissions Mass
+
+ For Meter=CO:Facility [kg], ResourceType=CO, contents are:
+  Site:Environmental Impact Electricity CO Emissions Mass
+  Site:Environmental Impact Natural Gas CO Emissions Mass
+
+ For Meter=ElectricEmissions:CO [kg], ResourceType=CO, EndUse=ElectricEmissions, contents are:
+  Site:Environmental Impact Electricity CO Emissions Mass
+
+ For Meter=CH4:Facility [kg], ResourceType=CH4, contents are:
+  Site:Environmental Impact Electricity CH4 Emissions Mass
+  Site:Environmental Impact Natural Gas CH4 Emissions Mass
+
+ For Meter=ElectricEmissions:CH4 [kg], ResourceType=CH4, EndUse=ElectricEmissions, contents are:
+  Site:Environmental Impact Electricity CH4 Emissions Mass
+
+ For Meter=NOx:Facility [kg], ResourceType=NOx, contents are:
+  Site:Environmental Impact Electricity NOx Emissions Mass
+  Site:Environmental Impact Natural Gas NOx Emissions Mass
+
+ For Meter=ElectricEmissions:NOx [kg], ResourceType=NOx, EndUse=ElectricEmissions, contents are:
+  Site:Environmental Impact Electricity NOx Emissions Mass
+
+ For Meter=N2O:Facility [kg], ResourceType=N2O, contents are:
+  Site:Environmental Impact Electricity N2O Emissions Mass
+  Site:Environmental Impact Natural Gas N2O Emissions Mass
+
+ For Meter=ElectricEmissions:N2O [kg], ResourceType=N2O, EndUse=ElectricEmissions, contents are:
+  Site:Environmental Impact Electricity N2O Emissions Mass
+
+ For Meter=SO2:Facility [kg], ResourceType=SO2, contents are:
+  Site:Environmental Impact Electricity SO2 Emissions Mass
+  Site:Environmental Impact Natural Gas SO2 Emissions Mass
+
+ For Meter=ElectricEmissions:SO2 [kg], ResourceType=SO2, EndUse=ElectricEmissions, contents are:
+  Site:Environmental Impact Electricity SO2 Emissions Mass
+
+ For Meter=PM:Facility [kg], ResourceType=PM, contents are:
+  Site:Environmental Impact Electricity PM Emissions Mass
+  Site:Environmental Impact Natural Gas PM Emissions Mass
+
+ For Meter=ElectricEmissions:PM [kg], ResourceType=PM, EndUse=ElectricEmissions, contents are:
+  Site:Environmental Impact Electricity PM Emissions Mass
+
+ For Meter=PM10:Facility [kg], ResourceType=PM10, contents are:
+  Site:Environmental Impact Electricity PM10 Emissions Mass
+  Site:Environmental Impact Natural Gas PM10 Emissions Mass
+
+ For Meter=ElectricEmissions:PM10 [kg], ResourceType=PM10, EndUse=ElectricEmissions, contents are:
+  Site:Environmental Impact Electricity PM10 Emissions Mass
+
+ For Meter=PM2.5:Facility [kg], ResourceType=PM2.5, contents are:
+  Site:Environmental Impact Electricity PM2.5 Emissions Mass
+  Site:Environmental Impact Natural Gas PM2.5 Emissions Mass
+
+ For Meter=ElectricEmissions:PM2.5 [kg], ResourceType=PM2.5, EndUse=ElectricEmissions, contents are:
+  Site:Environmental Impact Electricity PM2.5 Emissions Mass
+
+ For Meter=NH3:Facility [kg], ResourceType=NH3, contents are:
+  Site:Environmental Impact Electricity NH3 Emissions Mass
+  Site:Environmental Impact Natural Gas NH3 Emissions Mass
+
+ For Meter=ElectricEmissions:NH3 [kg], ResourceType=NH3, EndUse=ElectricEmissions, contents are:
+  Site:Environmental Impact Electricity NH3 Emissions Mass
+
+ For Meter=NMVOC:Facility [kg], ResourceType=NMVOC, contents are:
+  Site:Environmental Impact Electricity NMVOC Emissions Mass
+  Site:Environmental Impact Natural Gas NMVOC Emissions Mass
+
+ For Meter=ElectricEmissions:NMVOC [kg], ResourceType=NMVOC, EndUse=ElectricEmissions, contents are:
+  Site:Environmental Impact Electricity NMVOC Emissions Mass
+
+ For Meter=Hg:Facility [kg], ResourceType=Hg, contents are:
+  Site:Environmental Impact Electricity Hg Emissions Mass
+  Site:Environmental Impact Natural Gas Hg Emissions Mass
+
+ For Meter=ElectricEmissions:Hg [kg], ResourceType=Hg, EndUse=ElectricEmissions, contents are:
+  Site:Environmental Impact Electricity Hg Emissions Mass
+
+ For Meter=Pb:Facility [kg], ResourceType=Pb, contents are:
+  Site:Environmental Impact Electricity Pb Emissions Mass
+  Site:Environmental Impact Natural Gas Pb Emissions Mass
+
+ For Meter=ElectricEmissions:Pb [kg], ResourceType=Pb, EndUse=ElectricEmissions, contents are:
+  Site:Environmental Impact Electricity Pb Emissions Mass
+
+ For Meter=WaterEnvironmentalFactors:Facility [L], ResourceType=WaterEnvironmentalFactors, contents are:
+  Site:Environmental Impact Electricity Water Consumption Volume
+  Site:Environmental Impact Natural Gas Water Consumption Volume
+
+ For Meter=ElectricEmissions:WaterEnvironmentalFactors [L], ResourceType=WaterEnvironmentalFactors, EndUse=ElectricEmissions, contents are:
+  Site:Environmental Impact Electricity Water Consumption Volume
+
+ For Meter=Nuclear High:Facility [kg], ResourceType=Nuclear High, contents are:
+  Site:Environmental Impact Electricity Nuclear High Level Waste Mass
+  Site:Environmental Impact Natural Gas Nuclear High Level Waste Mass
+
+ For Meter=ElectricEmissions:Nuclear High [kg], ResourceType=Nuclear High, EndUse=ElectricEmissions, contents are:
+  Site:Environmental Impact Electricity Nuclear High Level Waste Mass
+
+ For Meter=Nuclear Low:Facility [m3], ResourceType=Nuclear Low, contents are:
+  Site:Environmental Impact Electricity Nuclear Low Level Waste Volume
+  Site:Environmental Impact Natural Gas Nuclear Low Level Waste Volume
+
+ For Meter=ElectricEmissions:Nuclear Low [m3], ResourceType=Nuclear Low, EndUse=ElectricEmissions, contents are:
+  Site:Environmental Impact Electricity Nuclear Low Level Waste Volume
+
+ For Meter=PurchasedElectricEmissions:Source [J], ResourceType=Source, EndUse=PurchasedElectricEmissions, contents are:
+  Site:Environmental Impact Purchased Electricity Source Energy
+
+ For Meter=SoldElectricEmissions:Source [J], ResourceType=Source, EndUse=SoldElectricEmissions, contents are:
+  Site:Environmental Impact Surplus Sold Electricity Source
+
+ For Meter=NaturalGasEmissions:Source [J], ResourceType=Source, EndUse=NaturalGasEmissions, contents are:
+  Site:Environmental Impact Natural Gas Source Energy
+
+ For Meter=NaturalGasEmissions:CO2 [kg], ResourceType=CO2, EndUse=NaturalGasEmissions, contents are:
+  Site:Environmental Impact Natural Gas CO2 Emissions Mass
+
+ For Meter=NaturalGasEmissions:CO [kg], ResourceType=CO, EndUse=NaturalGasEmissions, contents are:
+  Site:Environmental Impact Natural Gas CO Emissions Mass
+
+ For Meter=NaturalGasEmissions:CH4 [kg], ResourceType=CH4, EndUse=NaturalGasEmissions, contents are:
+  Site:Environmental Impact Natural Gas CH4 Emissions Mass
+
+ For Meter=NaturalGasEmissions:NOx [kg], ResourceType=NOx, EndUse=NaturalGasEmissions, contents are:
+  Site:Environmental Impact Natural Gas NOx Emissions Mass
+
+ For Meter=NaturalGasEmissions:N2O [kg], ResourceType=N2O, EndUse=NaturalGasEmissions, contents are:
+  Site:Environmental Impact Natural Gas N2O Emissions Mass
+
+ For Meter=NaturalGasEmissions:SO2 [kg], ResourceType=SO2, EndUse=NaturalGasEmissions, contents are:
+  Site:Environmental Impact Natural Gas SO2 Emissions Mass
+
+ For Meter=NaturalGasEmissions:PM [kg], ResourceType=PM, EndUse=NaturalGasEmissions, contents are:
+  Site:Environmental Impact Natural Gas PM Emissions Mass
+
+ For Meter=NaturalGasEmissions:PM10 [kg], ResourceType=PM10, EndUse=NaturalGasEmissions, contents are:
+  Site:Environmental Impact Natural Gas PM10 Emissions Mass
+
+ For Meter=NaturalGasEmissions:PM2.5 [kg], ResourceType=PM2.5, EndUse=NaturalGasEmissions, contents are:
+  Site:Environmental Impact Natural Gas PM2.5 Emissions Mass
+
+ For Meter=NaturalGasEmissions:NH3 [kg], ResourceType=NH3, EndUse=NaturalGasEmissions, contents are:
+  Site:Environmental Impact Natural Gas NH3 Emissions Mass
+
+ For Meter=NaturalGasEmissions:NMVOC [kg], ResourceType=NMVOC, EndUse=NaturalGasEmissions, contents are:
+  Site:Environmental Impact Natural Gas NMVOC Emissions Mass
+
+ For Meter=NaturalGasEmissions:Hg [kg], ResourceType=Hg, EndUse=NaturalGasEmissions, contents are:
+  Site:Environmental Impact Natural Gas Hg Emissions Mass
+
+ For Meter=NaturalGasEmissions:Pb [kg], ResourceType=Pb, EndUse=NaturalGasEmissions, contents are:
+  Site:Environmental Impact Natural Gas Pb Emissions Mass
+
+ For Meter=NaturalGasEmissions:WaterEnvironmentalFactors [L], ResourceType=WaterEnvironmentalFactors, EndUse=NaturalGasEmissions, contents are:
+  Site:Environmental Impact Natural Gas Water Consumption Volume
+
+ For Meter=NaturalGasEmissions:Nuclear High [kg], ResourceType=Nuclear High, EndUse=NaturalGasEmissions, contents are:
+  Site:Environmental Impact Natural Gas Nuclear High Level Waste Mass
+
+ For Meter=NaturalGasEmissions:Nuclear Low [m3], ResourceType=Nuclear Low, EndUse=NaturalGasEmissions, contents are:
+  Site:Environmental Impact Natural Gas Nuclear Low Level Waste Volume
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass

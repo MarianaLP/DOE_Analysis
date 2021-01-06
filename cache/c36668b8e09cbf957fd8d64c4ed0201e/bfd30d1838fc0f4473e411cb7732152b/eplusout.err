@@ -1,0 +1,82 @@
+Program Version,EnergyPlus, Version 9.2.0-921312fa1d, YMD=2020.12.22 17:46,
+   ** Warning ** Output:PreprocessorMessage="Conversion 7.2 => 8.0" has the following Warning conditions:
+   **   ~~~   ** Boiler:HotWater="HeatSys1 Boiler"
+   **   ~~~   ** defaults for this object have changed. Results may be different than previous. See
+   **   ~~~   ** InputOutputReference document for details.
+   ** Warning ** Output:PreprocessorMessage="Conversion 7.2 => 8.0" has the following Warning conditions:
+   **   ~~~   ** Chiller:Electric:ReformulatedEIR="CoolSys1 Chiller 1"
+   **   ~~~   ** defaults for this object have changed. See InputOutputReference document for details.
+   ** Warning ** Output:PreprocessorMessage="Conversion 7.2 => 8.0" has the following Warning conditions:
+   **   ~~~   ** Chiller:Electric:ReformulatedEIR="CoolSys1 Chiller 2"
+   **   ~~~   ** defaults for this object have changed. See InputOutputReference document for details.
+   ************* Beginning Zone Sizing Calculations
+   ** Warning ** CheckUsedConstructions: There are 1 nominally unused constructions in input.
+   **   ~~~   ** For explicit details on each unused construction, use Output:Diagnostics,DisplayExtraWarnings;
+   ************* Beginning System Sizing Calculations
+   ************* Beginning Plant Sizing Calculations
+   ** Warning ** Output:Meter: invalid Key Name="HUMIDIFIER:ELECTRICITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="REFRIGERATION:ELECTRICITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="WATERSYSTEMS:ELECTRICITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIOREQUIPMENT:GAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATING:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="COOLING:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="COOLING:GAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="REFRIGERATION:ENERGYTRANSFER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="BASEBOARD:ENERGYTRANSFER" - not found.
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ** Warning ** CHILLER:ELECTRIC:REFORMULATEDEIR "COOLSYS1 CHILLER 1": The condenser outlet temperature (5.00 C) is outside the range of condenser outlet temperatures (X var) given in Electric Input to Cooling Output Ratio Function of Part-load Ratio bicubic curve = WC SCREW GTE 300TONS DEFAULT 90.1-2004 EIR_FPLR
+   **   ~~~   ** The range specified = 18.54 C to 31.63 C. Environment=RUNPERIOD 1, at Simulation time=02/11 14:20 - 14:30
+   ** Warning ** CHILLER:ELECTRIC:REFORMULATEDEIR "COOLSYS1 CHILLER 2": The condenser outlet temperature (5.00 C) is outside the range of condenser outlet temperatures (X var) given in Electric Input to Cooling Output Ratio Function of Part-load Ratio bicubic curve = WC SCREW GTE 300TONS DEFAULT 90.1-2004 EIR_FPLR
+   **   ~~~   ** The range specified = 18.54 C to 31.63 C. Environment=RUNPERIOD 1, at Simulation time=02/11 14:20 - 14:30
+   ** Warning ** CoolingTower:SingleSpeed "TOWERWATERSYS COOLTOWER"
+   **   ~~~   ** Cooling tower water outlet temperature (4.87 C) is below the specified minimum condenser loop temp of 5.00 C
+   **   ~~~   **  Environment=RUNPERIOD 1, at Simulation time=02/16 06:10 - 06:20
+   ************* Simulation Error Summary *************
+   ** Warning ** The following Report Variables were requested but not generated -- check.rdd file
+   **   ~~~   ** Either the IDF did not contain these elements, the variable name is misspelled,
+   **   ~~~   ** or the requested variable is an advanced output which requires Output : Diagnostics, DisplayAdvancedReportVariables;
+   ************* Key=*, VarName=ZONE IDEAL LOADS ZONE TOTAL COOLING ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=ZONE IDEAL LOADS ZONE TOTAL HEATING ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=HEAT EXCHANGER TOTAL HEATING RATE, Frequency=Hourly
+   ************* Key=*, VarName=HEAT EXCHANGER SENSIBLE EFFECTIVENESS, Frequency=Hourly
+   ************* Key=*, VarName=HEAT EXCHANGER LATENT EFFECTIVENESS, Frequency=Hourly
+   *************
+   ************* ===== Recurring Error Summary =====
+   ************* The following recurring error messages occurred.
+   *************
+   *************  ** Warning ** CHILLER:ELECTRIC:REFORMULATEDEIR "COOLSYS1 CHILLER 1": The cond outlet temp range in Electric Input to Cooling Output Ratio Function of PLR curve error continues.
+   *************  **   ~~~   **   This error occurred 17349 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=35.992661  Min=4.547293
+   *************
+   *************  ** Warning ** CHILLER:ELECTRIC:REFORMULATEDEIR "COOLSYS1 CHILLER 2": The cond outlet temp range in Electric Input to Cooling Output Ratio Function of PLR curve error continues.
+   *************  **   ~~~   **   This error occurred 17349 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=35.992661  Min=4.547293
+   *************
+   *************  ** Warning ** CoolingTower:SingleSpeed "TOWERWATERSYS COOLTOWER" Cooling tower water outlet temperature is below the specified minimum condenser loop temp error continues...
+   *************  **   ~~~   **   This error occurred 327 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=4.987014  Min=4.500615
+   *************
+   *************
+   ************* ===== Final Error Summary =====
+   ************* The following error categories occurred.  Consider correcting or noting.
+   ************* Nominally Unused Constructions
+   ************* ..The nominally unused constructions warning is provided to alert you to potential conditions that can cause
+   ************* ..extra time during simulation. Each construction is calculated by the algorithm indicated in the HeatBalanceAlgorithm
+   ************* ..object. You may remove the constructions indicated (when you use the DisplayExtraWarnings option).
+   *************
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 1 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 35042 Warning; 0 Severe Errors; Elapsed Time=00hr 01min 21.19sec

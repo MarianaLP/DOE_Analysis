@@ -1,0 +1,146 @@
+Program Version,EnergyPlus, Version 9.2.0-921312fa1d, YMD=2020.12.22 18:36,
+   ** Warning ** Output:PreprocessorMessage="Conversion 7.2 => 8.0" has the following Warning conditions:
+   **   ~~~   ** Boiler:HotWater="HeatSys1 Boiler"
+   **   ~~~   ** defaults for this object have changed. Results may be different than previous. See
+   **   ~~~   ** InputOutputReference document for details.
+   ** Warning ** Output:PreprocessorMessage="Conversion 7.2 => 8.0" has the following Warning conditions:
+   **   ~~~   ** Chiller:Electric:ReformulatedEIR="CoolSys1 Chiller"
+   **   ~~~   ** defaults for this object have changed. See InputOutputReference document for details.
+   ************* Beginning Zone Sizing Calculations
+   ** Warning ** CalculateZoneVolume: 2 zones are not fully enclosed. For more details use:  Output:Diagnostics,DisplayExtrawarnings; 
+   ** Warning ** CheckUsedConstructions: There are 1 nominally unused constructions in input.
+   **   ~~~   ** For explicit details on each unused construction, use Output:Diagnostics,DisplayExtraWarnings;
+   ** Warning ** Calculated design heating load for zone=BASEMENT is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=CORRIDOR_NW_FLR_3 is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=CORRIDOR_NW_FLR_4 is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=CORRIDOR_SE_FLR_3 is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=CORRIDOR_SE_FLR_4 is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=ICU_FLR_2 is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=ICU_NURSESTN_LOBBY_FLR_2 is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=LAB_FLR_3 is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=LAB_FLR_4 is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=NURSESTN_LOBBY_FLR_3 is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=NURSESTN_LOBBY_FLR_4 is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=OR2_MULT5_FLR_2 is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=OR3_FLR_2 is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=OR4_FLR_2 is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=PHYSTHERAPY_FLR_3 is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=RADIOLOGY_FLR_4 is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ************* Beginning System Sizing Calculations
+   ************* Beginning Plant Sizing Calculations
+   ** Warning ** SizeWaterCoil: Coil="CAV_1_COOLC", Cooling Coil has leaving air temperature < entering water temperature.
+   **   ~~~   **     Tair,out  =  5.135
+   **   ~~~   **     Twater,in = 6.670
+   **   ~~~   ** ....coil leaving air temperature will be reset to:
+   **   ~~~   **     Tair,out = 7.170
+   ** Warning ** SizeWaterCoil: Coil="CAV_2_COOLC", Cooling Coil has leaving air temperature < entering water temperature.
+   **   ~~~   **     Tair,out  =  5.126
+   **   ~~~   **     Twater,in = 6.670
+   **   ~~~   ** ....coil leaving air temperature will be reset to:
+   **   ~~~   **     Tair,out = 7.170
+   ** Warning ** SizeWaterCoil: Coil="VAV_1_COOLC", Cooling Coil has leaving air temperature < entering water temperature.
+   **   ~~~   **     Tair,out  =  5.130
+   **   ~~~   **     Twater,in = 6.670
+   **   ~~~   ** ....coil leaving air temperature will be reset to:
+   **   ~~~   **     Tair,out = 7.170
+   ** Warning ** SizeWaterCoil: Coil="VAV_2_COOLC", Cooling Coil has leaving air temperature < entering water temperature.
+   **   ~~~   **     Tair,out  =  5.131
+   **   ~~~   **     Twater,in = 6.670
+   **   ~~~   ** ....coil leaving air temperature will be reset to:
+   **   ~~~   **     Tair,out = 7.170
+   ** Warning ** Output:Meter: invalid Key Name="WATERSYSTEMS:ELECTRICITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATING:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="COOLING:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="COOLING:GAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="BASEBOARD:ENERGYTRANSFER" - not found.
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ** Warning ** CHILLER:ELECTRIC:REFORMULATEDEIR "COOLSYS1 CHILLER": The condenser outlet temperature (5.42 C) is outside the range of condenser outlet temperatures (X var) given in Electric Input to Cooling Output Ratio Function of Part-load Ratio bicubic curve = WC CENTRIFUGAL GTE 300TONS DEFAULT 90.1-2004 EIR_FPLR
+   **   ~~~   ** The range specified = 14.56 C to 34.97 C. Environment=RUNPERIOD 1, at Simulation time=01/01 00:00 - 00:15
+   ** Warning ** CoolingTower:SingleSpeed "TOWERWATERSYS COOLTOWER"
+   **   ~~~   ** Cooling tower water outlet temperature (5.00 C) is below the specified minimum condenser loop temp of 5.00 C
+   **   ~~~   **  Environment=RUNPERIOD 1, at Simulation time=01/01 00:15 - 00:30
+   ** Warning ** SolveAirLoopControllers: Maximum iterations (50) exceeded for VAV_2, at RUNPERIOD 1, 01/21 11:30 - 11:45
+   ** Warning ** SolveAirLoopControllers: Maximum iterations (50) exceeded for VAV_2, at RUNPERIOD 1, 03/04 09:15 - 09:30
+   ** Warning ** SolveAirLoopControllers: Maximum iterations (50) exceeded for VAV_2, at RUNPERIOD 1, 03/08 13:15 - 13:30
+   ** Warning ** SolveAirLoopControllers: Maximum iterations (50) exceeded for VAV_2, at RUNPERIOD 1, 03/08 13:15 - 13:30
+   ** Warning ** SolveAirLoopControllers: Maximum iterations (50) exceeded for VAV_2, at RUNPERIOD 1, 03/08 13:15 - 13:30
+   ** Warning ** SolveAirLoopControllers: Maximum iterations (50) exceeded for VAV_2, at RUNPERIOD 1, 03/08 13:15 - 13:30
+   ** Warning ** SolveAirLoopControllers: Maximum iterations (50) exceeded for VAV_2, at RUNPERIOD 1, 03/11 13:15 - 13:30
+   ** Warning ** SolveAirLoopControllers: Maximum iterations (50) exceeded for VAV_2, at RUNPERIOD 1, 03/11 13:15 - 13:30
+   ** Warning ** SolveAirLoopControllers: Maximum iterations (50) exceeded for VAV_2, at RUNPERIOD 1, 03/11 18:15 - 18:30
+   ** Warning ** SolveAirLoopControllers: Maximum iterations (50) exceeded for VAV_2, at RUNPERIOD 1, 04/07 23:30 - 23:45
+   ** Warning ** SolveAirLoopControllers: Maximum iterations (50) exceeded for VAV_2, at RUNPERIOD 1, 04/17 04:00 - 04:15
+   ** Warning ** SolveAirLoopControllers: Maximum iterations (50) exceeded for VAV_2, at RUNPERIOD 1, 04/17 04:04 - 04:06
+   ** Warning ** SolveAirLoopControllers: Maximum iterations (50) exceeded for VAV_2, at RUNPERIOD 1, 04/17 04:06 - 04:09
+   ** Warning ** SolveAirLoopControllers: Maximum iterations (50) exceeded for VAV_2, at RUNPERIOD 1, 04/17 04:09 - 04:11
+   ************* Simulation Error Summary *************
+   ** Warning ** The following Report Variables were requested but not generated -- check.rdd file
+   **   ~~~   ** Either the IDF did not contain these elements, the variable name is misspelled,
+   **   ~~~   ** or the requested variable is an advanced output which requires Output : Diagnostics, DisplayAdvancedReportVariables;
+   ************* Key=*, VarName=ZONE IDEAL LOADS ZONE TOTAL COOLING ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=ZONE IDEAL LOADS ZONE TOTAL HEATING ENERGY, Frequency=Hourly
+   ************* Key=*, VarName=HEAT EXCHANGER TOTAL HEATING RATE, Frequency=Hourly
+   ************* Key=*, VarName=HEAT EXCHANGER SENSIBLE EFFECTIVENESS, Frequency=Hourly
+   ************* Key=*, VarName=HEAT EXCHANGER LATENT EFFECTIVENESS, Frequency=Hourly
+   ************* There are 1 unused schedules in input.
+   ************* Use Output:Diagnostics,DisplayUnusedSchedules; to see them.
+   *************
+   ************* ===== Recurring Error Summary =====
+   ************* The following recurring error messages occurred.
+   *************
+   *************  ** Warning ** CHILLER:ELECTRIC:REFORMULATEDEIR "COOLSYS1 CHILLER": The cond outlet temp range in Electric Input to Cooling Output Ratio Function of PLR curve error continues.
+   *************  **   ~~~   **   This error occurred 48858 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=34.989703  Min=4.501558
+   *************
+   *************  ** Warning ** CoolingTower:SingleSpeed "TOWERWATERSYS COOLTOWER" Cooling tower water outlet temperature is below the specified minimum condenser loop temp error continues...
+   *************  **   ~~~   **   This error occurred 7406 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=4.999937  Min=4.458957
+   *************
+   *************  ** Warning ** SolveAirLoopControllers: Exceeding Maximum iterations for VAV_2 during RUNPERIOD 1 continues
+   *************  **   ~~~   **   This error occurred 486 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************
+   *************  ** Warning ** SolveAirLoopControllers: Exceeding Maximum iterations for VAV_1 during RUNPERIOD 1 continues
+   *************  **   ~~~   **   This error occurred 209 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************
+   *************
+   ************* ===== Final Error Summary =====
+   ************* The following error categories occurred.  Consider correcting or noting.
+   ************* Nominally Unused Constructions
+   ************* ..The nominally unused constructions warning is provided to alert you to potential conditions that can cause
+   ************* ..extra time during simulation. Each construction is calculated by the algorithm indicated in the HeatBalanceAlgorithm
+   ************* ..object. You may remove the constructions indicated (when you use the DisplayExtraWarnings option).
+   *************
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 18 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 57005 Warning; 0 Severe Errors; Elapsed Time=00hr 04min 21.67sec

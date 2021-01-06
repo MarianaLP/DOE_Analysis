@@ -1,0 +1,16 @@
+ ReadVarsESO
+ processing:cache\34393689b0a03f0e6106f3059aef0d9c\eplus_run_kakhftuh\RefBldgStripMallNew2004_v1.4_7.2_5A_USA_IL_CHICAGO-OHARE.rvi
+ input file:cache\34393689b0a03f0e6106f3059aef0d9c\eplus_run_kakhftuh\eplusout.eso
+ output file:cache\34393689b0a03f0e6106f3059aef0d9c\eplus_run_kakhftuh\eplusout.csv
+ getting all vars from:cache\34393689b0a03f0e6106f3059aef0d9c\eplus_run_kakhftuh\eplusout.eso
+  number variables requested for output=          53
+ ReadVars Run Time=00hr 00min  5.61sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:cache\34393689b0a03f0e6106f3059aef0d9c\eplus_run_kakhftuh\RefBldgStripMallNew2004_v1.4_7.2_5A_USA_IL_CHICAGO-OHARE.mvi
+ input file:cache\34393689b0a03f0e6106f3059aef0d9c\eplus_run_kakhftuh\eplusout.mtr
+ output file:cache\34393689b0a03f0e6106f3059aef0d9c\eplus_run_kakhftuh\eplusmtr.csv
+ getting all vars from:cache\34393689b0a03f0e6106f3059aef0d9c\eplus_run_kakhftuh\eplusout.mtr
+  number variables requested for output=          13
+ ReadVars Run Time=00hr 00min  1.67sec
+ ReadVarsESO program completed successfully.

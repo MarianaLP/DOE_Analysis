@@ -1,0 +1,16 @@
+ ReadVarsESO
+ processing:cache\0c8536047001e392d7e7310b2a08e8c8\eplus_run_nzmtdion\RefBldgSmallOfficePost1980_v1.4_7.2_5A_USA_IL_CHICAGO-OHARE.rvi
+ input file:cache\0c8536047001e392d7e7310b2a08e8c8\eplus_run_nzmtdion\eplusout.eso
+ output file:cache\0c8536047001e392d7e7310b2a08e8c8\eplus_run_nzmtdion\eplusout.csv
+ getting all vars from:cache\0c8536047001e392d7e7310b2a08e8c8\eplus_run_nzmtdion\eplusout.eso
+  number variables requested for output=          39
+ ReadVars Run Time=00hr 00min  4.06sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:cache\0c8536047001e392d7e7310b2a08e8c8\eplus_run_nzmtdion\RefBldgSmallOfficePost1980_v1.4_7.2_5A_USA_IL_CHICAGO-OHARE.mvi
+ input file:cache\0c8536047001e392d7e7310b2a08e8c8\eplus_run_nzmtdion\eplusout.mtr
+ output file:cache\0c8536047001e392d7e7310b2a08e8c8\eplus_run_nzmtdion\eplusmtr.csv
+ getting all vars from:cache\0c8536047001e392d7e7310b2a08e8c8\eplus_run_nzmtdion\eplusout.mtr
+  number variables requested for output=          16
+ ReadVars Run Time=00hr 00min  1.88sec
+ ReadVarsESO program completed successfully.
